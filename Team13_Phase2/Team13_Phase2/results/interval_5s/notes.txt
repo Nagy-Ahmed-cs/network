@@ -1,0 +1,1 @@
+{"duration": 60, "reporting_interval": 5, "loss_prob": 0.0, "batch": 1}

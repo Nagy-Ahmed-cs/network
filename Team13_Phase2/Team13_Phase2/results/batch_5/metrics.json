@@ -1,8 +1,11 @@
 {
-  "packets_received": 0,
-  "bytes_received": 0,
+  "packets_received": 34,
+  "reads_processed": 150,
+  "bytes_received": 988,
+  "bytes_per_report": 6.586666666666667,
   "duplicates": 0,
+  "duplicate_rate": 0.0,
   "gaps": 0,
-  "reads_processed": 0,
-  "processing_cpu_seconds": 0.009350356
+  "cpu_ms_per_report": 0.10416666666666667,
+  "timestamp": 1766601598
 }
