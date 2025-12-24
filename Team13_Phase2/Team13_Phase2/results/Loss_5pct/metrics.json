@@ -1,0 +1,8 @@
+{
+  "packets_received": 67,
+  "bytes_received": 1032,
+  "duplicates": 0,
+  "gaps": 3,
+  "reads_processed": 67,
+  "processing_cpu_seconds": 0.09982027499999994
+}

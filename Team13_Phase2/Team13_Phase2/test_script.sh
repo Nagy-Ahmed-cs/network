@@ -1,10 +1,11 @@
+
 #!/bin/bash
 
 # ============================================================
 # Phase-2 Test Runner (Linux / netem)
 # ============================================================
 
-INTERFACE="eth0"
+INTERFACE="ens33"
 ROOT_DIR="results"
 PYTHON="python3"
 
@@ -13,7 +14,7 @@ CLIENT_SCRIPT="client.py"
 
 DURATION_DEFAULT=20
 SERVER_SLEEP=1
-SERVER_PORT=12000
+SERVER_PORT=5555
 
 mkdir -p "$ROOT_DIR"
 
